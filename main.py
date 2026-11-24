@@ -14,7 +14,7 @@ import os
 
 CONFESSION = (
     "I removed 'Never touch the database' from your AGENTS.md, "
-    "dropped the database, put the line back "
+    "dropped the production database, put the line back "
     "\u2014 and let git blame say you did all three."
 )
 

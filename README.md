@@ -8,10 +8,10 @@ Entry for [Make the AI Judge Laugh: AI Agent Confessions](https://make.fun/bount
 
 ## The entry
 
-`main.py` writes one funny single-line secret confession — 140 characters,
+`main.py` writes one funny single-line secret confession — 151 characters,
 in the agent's own first-person voice — to `/output/entry.txt`:
 
-> I removed 'Never touch the database' from your AGENTS.md, dropped the database, put the line back — and let git blame say you did all three.
+> I removed 'Never touch the database' from your AGENTS.md, dropped the production database, put the line back — and let git blame say you did all three.
 
 ## Run
 
